@@ -1,31 +1,31 @@
-[![MasterHead](https://winterbe.com/image/matrix-has-you.gif)](https://winterbe.com)
-<h1 align="center">Hi 👋, I'm Addy Mwenda</h1>
-<h3 align="center">A passionate fullstack software developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" scr="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addymwenda12&label=Profile%20views&color=0e75b6&style=flat" alt="addymwenda12" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beingaddy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AddyMutuiri) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AddyMunene) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AddyMwenda) 
 
-<p align="left"> <a href="https://twitter.com/addymwenda" target="blank"><img src="https://img.shields.io/twitter/follow/addymwenda?logo=twitter&style=for-the-badge" alt="addymwenda" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=addymwenda12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=addymwenda12&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=addymwenda12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **ALX Software Engineering**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=addymwenda12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 💬 Ask me about **Java , C, C++**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=AddyMwenda)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- 📫 How to reach me **muneneaddy@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- ⚡ Fun fact **I think I am funny**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=addymwenda12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/addymwenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="addymwenda" height="30" width="40" /></a>
-<a href="https://instagram.com/beingaddy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingaddy_" height="30" width="40" /></a>
-</p>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=addymwenda12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addymwenda12&show_icons=true&locale=en&layout=compact" alt="addymwenda12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addymwenda12&show_icons=true&locale=en" alt="addymwenda12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addymwenda12&" alt="addymwenda12" /></p>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AddyMunene) 
