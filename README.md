@@ -1,23 +1,26 @@
+### Hi there 👋, my name is Addy
+#### I am a Full Stack Developer
+A tech geek and avid speaker, I strive to give my full potential to accomplish my goals.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beingaddy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AddyMutuiri) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AddyMunene) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AddyMwenda) 
+I'm versatile, but I never lose my distinctive style
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=addymwenda12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=addymwenda12&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=addymwenda12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Skills: NODEJS / EXPRESSJS / TYPESCRIPT / MYSQL / CSS / PYTHON / DJANGO
+
+- 🌱 I’m currently learning Artificial Intelligence // Machine Learning 
+- 👯 I’m looking to collaborate on any real time project that will influence the world 
+- 💬 Ask me about Backend Engineering 
+- ⚡ Fun fact: I like coffee 
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=AddyMwenda)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/addymwenda12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/addy_munene_2fa35d31c1f2a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/addymutuiri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/beingaddy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AddyMwenda)  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=addymwenda12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addymwenda12)](https://github.com/anuraghazra/github-readme-stats)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AddyMunene) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=addymwenda12&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/addymwenda12)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=addymwenda12)  
+
