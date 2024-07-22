@@ -15,7 +15,7 @@ Join me on any social platform , where we share insights, victories and even the
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### Algorithms [LeetCode](https://leetcode.com/addymwenda/)
+### Algorithms [LeetCode](https://leetcode.com/u/Addy_Mutuiri//)
 
 ## Languages and Tools 
 <div>
