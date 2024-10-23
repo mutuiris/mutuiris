@@ -1,11 +1,61 @@
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Addy</a> 👋
-</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange">
+    <img src="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange" alt="Profile Views"/>
+  </picture>
+</div>
+
+<div align="center">
+  
+  ```diff
+  + Software Engineer | ML Enthusiast | DeFi Developer +
+  ```
+  
+</div>
 
 ### About Me:
-I'm a passionate software engineer with a skill for crafting user-centric applications and collaborating with others to build creative solutions, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+
+```typescript
+const addy = {
+    pronouns: "he" | "him",
+    code: ["JavaScript", "TypeScript", "C", "Python"],
+    specialization: ["RNN", "LSTM", "Reinforcement Learning"],
+    currentFocus: "Building DeFi applications and analyzing smart contracts",
+    funFact: "I solve LeetCode problems while waiting for my code to compile"
+};
+```
+
+I'm a passionate software engineer focused on building user-centric applications and innovative solutions. My expertise includes:
+
+- 🧠 Specializing in Recurrent Neural Networks (RNN) and LSTM models
+- 📊 Strong background in regression analysis and classical machine learning
+- 🎮 Active exploration of Reinforcement Learning (RL)
+- ⛓️ Currently diving deep into DeFi and Web3 technologies
+- 🔐 Smart contract development and analysis
+- 💻 Regular participation in LeetCode challenges and CTF competitions
+
+<details>
+<summary>🌟 More About Me</summary>
+<br>
+  
+```javascript
+const additionalInfo = {
+    education: "Computer Science & Mathematics",
+    interests: ["Artificial Intelligence", "Blockchain"],
+    hobbies: ["CTF Challenges", "Code Golf", "Tech Blogging"],
+    goals: "Contributing to open-source AI projects"
+};
+```
+</details>
 
 ### Social media: 📡
 Join me on any social platform , where we share insights, victories and even the occasional setback:
