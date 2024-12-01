@@ -120,11 +120,6 @@ Join me on any social platform , where we share insights, victories and even the
 </p>
  
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-Mutuiri&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
