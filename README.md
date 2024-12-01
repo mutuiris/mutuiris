@@ -9,7 +9,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange">
-    <img src="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=mutuiris&style=for-the-badge&color=orange" alt="Profile Views"/>
   </picture>
 </div>
 
@@ -60,8 +60,8 @@ const additionalInfo = {
 ### Social media: 📡
 Join me on any social platform , where we share insights, victories and even the occasional setback:
 
-<a href="https://www.linkedin.com/in/addymutuiri/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/beingaddy_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/addymutuiri/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Addy Mutuiri | LinkedIn" width="21px"/></a>
+  <a href="https://instagram.com/beingaddy_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Addy Mutuiri | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -105,7 +105,7 @@ Join me on any social platform , where we share insights, victories and even the
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=A-Mutuiri&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mutuiris&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -115,8 +115,8 @@ Join me on any social platform , where we share insights, victories and even the
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=A-Mutuiri&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Mutuiri&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mutuiris&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutuiris&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
