@@ -29,7 +29,7 @@ const addy = {
     pronouns: "he" | "him",
     code: ["JavaScript", "TypeScript", "C", "Python"],
     specialization: ["RNN", "LSTM", "Reinforcement Learning"],
-    currentFocus: "Building DeFi applications and analyzing smart contracts",
+    currentFocus: "Building DeFi applications",
     funFact: "I solve LeetCode problems while waiting for my code to compile"
 };
 ```
