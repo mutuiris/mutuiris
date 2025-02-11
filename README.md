@@ -34,7 +34,7 @@ const addy = {
 };
 ```
 
-I'm a passionate software engineer focused on building user-centric applications and innovative solutions. My expertise includes:
+I'm a passionate software engineer focused on building user applications and innovative solutions. My expertise includes:
 
 - 🧠 Specializing in Recurrent Neural Networks (RNN) and LSTM models
 - 📊 Strong background in regression analysis and classical machine learning
