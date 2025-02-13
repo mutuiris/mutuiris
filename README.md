@@ -39,7 +39,7 @@ I'm a passionate software engineer focused on building user applications and inn
 - 🧠 Specializing in Recurrent Neural Networks (RNN) and LSTM models
 - 📊 Strong background in regression analysis and classical machine learning
 - 🎮 Active exploration of Reinforcement Learning (RL)
-- ⛓️ Currently diving deep into Web3 technologies
+- ⛓️ Currently diving deep into DEFI and Web3 technologies
 - 🔐 Smart contract development and analysis
 - 💻 Regular participation in LeetCode challenges and CTF competitions
 
