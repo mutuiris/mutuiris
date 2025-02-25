@@ -9,7 +9,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange">
-    <img src="https://komarev.com/ghpvc/?username=mutuiris&style=for-the-badge&color=orange" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange" alt="Profile Views"/>
   </picture>
 </div>
 
