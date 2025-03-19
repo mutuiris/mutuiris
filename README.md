@@ -41,7 +41,7 @@ I'm a passionate software engineer focused on building user applications and inn
 - 🎮 Active exploration of Reinforcement Learning (RL)
 - ⛓️ Currently diving deep into DEFI and Web3 technologies
 - 🔐 Smart contract development and analysis
-- 💻 Regular participation in LeetCode challenges and CTF competitions
+- 💻 Regular participation in LeetCode challenges
 
 <details>
 <summary>🌟 More About Me</summary>
