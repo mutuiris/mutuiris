@@ -52,7 +52,7 @@ const additionalInfo = {
     education: "Computer Science & Mathematics",
     interests: ["Artificial Intelligence", "Blockchain"],
     hobbies: ["CTF Challenges", "Code Golf", "Tech Blogging"],
-    goals: "Contributing to open-source AI projects"
+    goals: "Contributing to open-source AI projects and startups"
 };
 ```
 </details>
