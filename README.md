@@ -27,7 +27,7 @@
 ```typescript
 const addy = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "C", "Python"],
+    code: ["JavaScript", "TypeScript", "C", "Python", "Java"],
     specialization: ["RNN", "LSTM", "Reinforcement Learning"],
     currentFocus: "Building DeFi applications",
     funFact: "I solve LeetCode problems while waiting for my code to compile"
