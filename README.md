@@ -16,7 +16,7 @@
 <div align="center">
   
   ```diff
-  + Software Engineer | ML Develper | AI Developer +
+  + Software Engineer | ML Developer | AI Developer +
   ```
   
 </div>
