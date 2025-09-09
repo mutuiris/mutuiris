@@ -50,7 +50,7 @@ Git | Docker | Linux | VS Code | JWT Authentication
 
 ## Featured Projects
 
-### [Simple Shell](https://github.com/mutuiris/simple-shell)
+### [Simple Shell](https://github.com/mutuiris/simple_shell)
 **Unix Shell Implementation in C**
 
 A fully functional Unix shell built from scratch, demonstrating mastery of systems programming and low-level process management. Implements core shell functionality with custom parsing algorithms and memory management.
