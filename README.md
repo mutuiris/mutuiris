@@ -1,113 +1,167 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Addy+%F0%9F%91%8B">
-  </picture>
-</div>
+# Addy Mutuiri
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange">
-    <img src="https://komarev.com/ghpvc/?username=addymwenda12&style=for-the-badge&color=orange" alt="Profile Views"/>
-  </picture>
-</div>
+**Backend Software Engineer | ALX Fellow**  
+**TypeScript Specialist | Systems Programming**
 
-<div align="center">
-  
-  ```diff
-  + Software Developer | ML Developer | AI Developer +
-  ```
-  
-</div>
-
-### About Me:
-
-
-```typescript
-const addy = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "C", "Python", "Java"],
-    specialization: ["RNN", "LSTM", "Reinforcement Learning"],
-    currentFocus: "Building DeFi applications",
-    funFact: "I solve LeetCode problems while waiting for my code to compile"
-};
-```
-
-I'm a passionate software engineer focused on building user applications and innovative solutions. My expertise includes:
-
-- 🧠 Specializing in Recurrent Neural Networks (RNN) and LSTM models
-- 📊 Strong background in regression analysis and classical machine learning
-- 🎮 Active exploration of Reinforcement Learning (RL)
-- ⛓️ Currently diving deep into DEFI and Web3 technologies
-- 🔐 Smart contract development and analysis
-- 💻 Regular participation in LeetCode challenges
-
-<details>
-<summary>🌟 More About Me</summary>
-<br>
-  
-```javascript
-const additionalInfo = {
-    education: "Computer Science & Mathematics",
-    interests: ["Artificial Intelligence", "Blockchain"],
-    hobbies: ["CTF Challenges", "Code Golf", "Tech Blogging"],
-    goals: "Contributing to open-source AI projects and startups"
-};
-```
-</details>
-
-### Social media: 📡
-Join me on any social platform , where we share insights, victories and even the occasional setback:
-
-<a href="https://www.linkedin.com/in/addymutuiri/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Addy Mutuiri | LinkedIn" width="21px"/></a>
-  <a href="https://instagram.com/beingaddy_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Addy Mutuiri | Instagram" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-### Algorithms [LeetCode](https://leetcode.com/u/mutuiris/)
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| NodeJS | C | JS | NextJS | TypeScript |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescipt" alt="Typescript" width="55" height="55"/>| 
-
-
-### Best frameworks and main libraries for NodeJS:
-| ExpressJS | Fastify | NestJS | Nodemon | OpenCV |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS"  alt="ExpressJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="Fastify" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="Nodemon" alt="Nodemon" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-### My tools for Data Manipulation & Visualisation:
-
-| Jupyter | VSCode | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-
-### Environments, Testing, Other:
-
-| Git | Docker | Postman | VBox |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VBox" alt="VBox" width="55" height="55"/>|
-
-### OS:
-
-| Linux | Ubuntu |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-addymutuiri-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/addymutuiri/)
+[![Profile Views](https://komarev.com/ghpvc/?username=addymwenda12&style=flat-square&color=blue)](https://github.com/addymwenda12)
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mutuiris&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## Technical Expertise
 
+Backend software engineer specializing in TypeScript based applications and systems programming. Graduate of ALX Software Engineering Fellowship with expertise in API architecture, and scalable system design. Currently expanding into systems programming with Go.
 
 ---
 
+## Core Technologies
+
+### Primary Specialization
+```
+TypeScript | Node.js | Express.js | NestJS
+```
+
+### Programming Languages
+```
+TypeScript | JavaScript | C | Python | Go (Learning)
+```
+
+### Backend Frameworks & APIs
+```
+Express.js | NestJS | Django | REST APIs | Real-time Systems
+```
+
+### Machine Learning & AI
+```
+Neural Networks (RNN/LSTM) | Reinforcement Learning | Predictive Analytics
+```
+
+### Databases & Storage
+```
+MongoDB | MySQL | PostgreSQL | SQLite
+```
+
+### Infrastructure & Tools
+```
+Git | Docker | Linux | VS Code | JWT Authentication
+```
+
+---
+
+## Featured Projects
+
+### [Simple Shell](https://github.com/mutuiris/simple-shell)
+**Unix Shell Implementation in C**
+
+A fully functional Unix shell built from scratch, demonstrating mastery of systems programming and low-level process management. Implements core shell functionality with custom parsing algorithms and memory management.
+
+**Key Features:**
+- Command parsing and execution pipeline with tokenization
+- Built-in commands: `cd`, `exit`, `env`, `help` with parameter validation
+- Environment variable manipulation and PATH resolution
+- Signal handling (SIGINT) with graceful interruption
+- Process forking and execution with `execve` system calls
+- Dynamic memory allocation with custom realloc implementation
+- Error handling and status code management
+
+**Technical Implementation:**
+- Custom lexical analyzer for command tokenization
+- Process control using `fork()`, `wait()`, and `execve()`
+- Memory-efficient string manipulation and buffer management
+- Signal handlers for proper cleanup and user interaction
+- Environment traversal and PATH variable processing
+
+**Tech Stack:** `C` `System Calls` `Unix/Linux` `Process Management` `Memory Management`
+
+### [Eco Support System](https://github.com/mutuiris/eco-support-system)
+**AI Powered Energy Management and Predictive Analytics Platform**
+
+Energy management system combining predictive analytics with automated customer support. Features machine learning models for consumption forecasting and AI powered chat assistance via SMS integration.
+
+**Key Features:**
+- **Predictive Analytics:** Linear regression models for energy consumption forecasting
+- **Smart Meter Integration:** Real-time data collection and processing
+- **AI Customer Support:** Google Gemini AI integration for intelligent responses
+- **SMS Communication:** Africa's Talking API for automated notifications
+- **Data Visualization:** Consumption trends and prediction accuracy metrics
+- **User Management:** Authentication and profile system
+
+**Technical Implementation:**
+- Django REST API with comprehensive serialization
+- Machine learning pipeline using scikit-learn for time-series analysis
+- Real-time data processing with Django ORM optimization
+- External API integration (Africa's Talking, Google Gemini)
+- Database design for energy consumption tracking and user management
+- Automated prediction scheduling and notification systems
+
+**Tech Stack:** `Django` `Python` `PostgreSQL` `Machine Learning` `REST APIs` `AI Integration` `SMS APIs`
+
+### [MamaHub](https://github.com/mutuiris/MamaHub)
+**FullStack Community Platform with RealTime Communication**
+
+Scalable social platform designed for mothers featuring real-time messaging, group management, and comprehensive user interaction systems. Built with modern TypeScript architecture and real-time communication capabilities.
+
+**Key Features:**
+- **RealTime Chat:** Stream Chat SDK integration with message persistence
+- **Group Management:** Create, join, and moderate community groups
+- **User Authentication:** JWT-based auth with secure session management
+- **Profile System:** Comprehensive user profiles with media upload
+- **Content Sharing:** Post creation, media sharing, and interaction systems
+
+**Technical Implementation:**
+- TypeScript-first architecture with comprehensive type safety
+- React frontend with custom hooks and context management
+- Node.js/Express backend with modular route architecture
+- MongoDB with Mongoose for flexible data modeling
+- Stream Chat integration for scalable real-time messaging
+- JWT authentication with refresh token implementation
+- File upload handling and media processing
+- RESTful API design with comprehensive error handling
+
+**Tech Stack:** `TypeScript` `React` `Node.js` `Express` `MongoDB` `Stream Chat` `JWT Authentication`
+
+### [AI Rate My Professor](https://github.com/mutuiris/ai-rate-my-professor)
+**Machine Learning-Driven Academic Rating System**
+
+Intelligent professor evaluation platform utilizing natural language processing and machine learning algorithms for automated review analysis, sentiment detection, and personalized recommendations.
+
+**Key Features:**
+- **AI Review Analysis:** Natural language processing for sentiment analysis
+- **Intelligent Recommendations:** ML-based professor matching algorithms
+- **Rating Aggregation:** Statistical analysis of review patterns
+- **Bias Detection:** Algorithmic fairness in rating calculations
+- **Trend Analysis:** Historical performance and rating evolution
+- **User Feedback Processing:** Automated content moderation
+
+**Technical Implementation:**
+- Machine learning models for review classification and sentiment analysis
+- Statistical algorithms for rating normalization and bias correction
+- NLP preprocessing pipelines for text analysis
+- Recommendation engine based on user preferences and historical data
+- Automated content filtering and spam detection
+
+**Tech Stack:** `Python` `Machine Learning` `NLP` `Statistical Analysis` `Data Processing`
+
+---
+
+## Technical Competencies
+
+**Systems Programming**: C programming, Unix system calls, memory management, and process control
+
+**TypeScript Ecosystem**: Full stack TypeScript applications, type safe APIs, and enterprise-grade application architecture
+
+**Machine Learning Engineering**: Neural network implementation, predictive modeling, and AI system integration
+
+**API Design**: RESTful services, real-time communication, authentication systems, and microservices architecture
+
+---
+
+## Current Focus
+
+- **Go Programming**: Exploring concurrent programming patterns and systems development
+- **Advanced TypeScript**: Enterprise patterns, performance optimization, and scalable architecture
+- **Machine Learning**: Production ML systems and intelligent application integration
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/addymutuiri/)
