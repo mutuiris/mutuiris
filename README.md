@@ -28,7 +28,7 @@ TypeScript | JavaScript | C | Python | Go (Learning)
 
 ### Backend Frameworks & APIs
 ```
-Express.js | NestJS | Django | REST APIs | Real-time Systems
+Express.js | NestJS | Django | REST APIs | Real time Systems
 ```
 
 ### Machine Learning & AI
