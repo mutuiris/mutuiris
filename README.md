@@ -24,7 +24,7 @@ Backend-focused engineer building production systems in Go, with a growing focus
 **Que** (mobile app) — A heritage and cultural discovery app for Kenya.
 - **Stack:** Expo React Native · Hono · Supabase (Postgres + PostGIS) · Sanity · Mux
 
-**B+Sports** — A prominent East African sports media and broadcasting brand.
+**B+Sports** — An East African sports media and broadcasting brand.
 - **Stack:** Go · Next.js · PostgreSQL · AWS · GitHub Actions
 
 ---
